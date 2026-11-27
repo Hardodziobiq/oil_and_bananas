@@ -1,0 +1,10 @@
+[package]
+name = "oil_and_bananas"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+noise = "0.9.0"
+rand = "0.10.4"
+rayon = "1.12.0"
+three-d = "0.19.0"
